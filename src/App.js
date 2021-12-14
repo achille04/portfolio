@@ -4,20 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Personal Portfolio</h1>
+      <p>I am so sorry for submitting this bad work. I am in very bad condition in my personal life and others. I will try to finish it as fast as i can. I don't want to lose my access. </p>
     </div>
   );
 }
